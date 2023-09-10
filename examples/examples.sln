@@ -1,0 +1,62 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoHideExample", "D:/develop/VisualStudio/SmartPanel/ThirdParty/ads/examples/autohide\AutoHideExample.vcxproj", "{4C8C8FE5-7AA6-36EA-A992-5D95160A5764}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CentralWidgetExample", "D:/develop/VisualStudio/SmartPanel/ThirdParty/ads/examples/centralwidget\CentralWidgetExample.vcxproj", "{940599AF-816D-305B-B3BB-27C4CF18DB70}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleExample", "D:/develop/VisualStudio/SmartPanel/ThirdParty/ads/examples/simple\SimpleExample.vcxproj", "{7ECA28FB-436A-3628-AC67-56AD9147A672}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HideShowExample", "D:/develop/VisualStudio/SmartPanel/ThirdParty/ads/examples/hideshow\HideShowExample.vcxproj", "{4C8B4B88-C769-331D-8264-48F2B3A575D8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SidebarExample", "D:/develop/VisualStudio/SmartPanel/ThirdParty/ads/examples/sidebar\SidebarExample.vcxproj", "{A377C66B-73B2-3728-B383-EBA2DC983A3A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DeleteOnCloseTest", "D:/develop/VisualStudio/SmartPanel/ThirdParty/ads/examples/deleteonclose\DeleteOnCloseTest.vcxproj", "{F51EC0A8-A655-3FCF-AABB-195BB09BA673}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EmptyDockareaExample", "D:/develop/VisualStudio/SmartPanel/ThirdParty/ads/examples/emptydockarea\EmptyDockareaExample.vcxproj", "{351248B5-1980-3684-80E8-E78A5A7E4700}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DockInDock", "D:/develop/VisualStudio/SmartPanel/ThirdParty/ads/examples/dockindock\DockInDock.vcxproj", "{AC71CBC0-5D9C-3810-A90C-C3BB3B854CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C8C8FE5-7AA6-36EA-A992-5D95160A5764}.Debug|x64.ActiveCfg = Debug|x64
+		{4C8C8FE5-7AA6-36EA-A992-5D95160A5764}.Debug|x64.Build.0 = Debug|x64
+		{4C8C8FE5-7AA6-36EA-A992-5D95160A5764}.Release|x64.ActiveCfg = Release|x64
+		{4C8C8FE5-7AA6-36EA-A992-5D95160A5764}.Release|x64.Build.0 = Release|x64
+		{940599AF-816D-305B-B3BB-27C4CF18DB70}.Debug|x64.ActiveCfg = Debug|x64
+		{940599AF-816D-305B-B3BB-27C4CF18DB70}.Debug|x64.Build.0 = Debug|x64
+		{940599AF-816D-305B-B3BB-27C4CF18DB70}.Release|x64.ActiveCfg = Release|x64
+		{940599AF-816D-305B-B3BB-27C4CF18DB70}.Release|x64.Build.0 = Release|x64
+		{7ECA28FB-436A-3628-AC67-56AD9147A672}.Debug|x64.ActiveCfg = Debug|x64
+		{7ECA28FB-436A-3628-AC67-56AD9147A672}.Debug|x64.Build.0 = Debug|x64
+		{7ECA28FB-436A-3628-AC67-56AD9147A672}.Release|x64.ActiveCfg = Release|x64
+		{7ECA28FB-436A-3628-AC67-56AD9147A672}.Release|x64.Build.0 = Release|x64
+		{4C8B4B88-C769-331D-8264-48F2B3A575D8}.Debug|x64.ActiveCfg = Debug|x64
+		{4C8B4B88-C769-331D-8264-48F2B3A575D8}.Debug|x64.Build.0 = Debug|x64
+		{4C8B4B88-C769-331D-8264-48F2B3A575D8}.Release|x64.ActiveCfg = Release|x64
+		{4C8B4B88-C769-331D-8264-48F2B3A575D8}.Release|x64.Build.0 = Release|x64
+		{A377C66B-73B2-3728-B383-EBA2DC983A3A}.Debug|x64.ActiveCfg = Debug|x64
+		{A377C66B-73B2-3728-B383-EBA2DC983A3A}.Debug|x64.Build.0 = Debug|x64
+		{A377C66B-73B2-3728-B383-EBA2DC983A3A}.Release|x64.ActiveCfg = Release|x64
+		{A377C66B-73B2-3728-B383-EBA2DC983A3A}.Release|x64.Build.0 = Release|x64
+		{F51EC0A8-A655-3FCF-AABB-195BB09BA673}.Debug|x64.ActiveCfg = Debug|x64
+		{F51EC0A8-A655-3FCF-AABB-195BB09BA673}.Debug|x64.Build.0 = Debug|x64
+		{F51EC0A8-A655-3FCF-AABB-195BB09BA673}.Release|x64.ActiveCfg = Release|x64
+		{F51EC0A8-A655-3FCF-AABB-195BB09BA673}.Release|x64.Build.0 = Release|x64
+		{351248B5-1980-3684-80E8-E78A5A7E4700}.Debug|x64.ActiveCfg = Debug|x64
+		{351248B5-1980-3684-80E8-E78A5A7E4700}.Debug|x64.Build.0 = Debug|x64
+		{351248B5-1980-3684-80E8-E78A5A7E4700}.Release|x64.ActiveCfg = Release|x64
+		{351248B5-1980-3684-80E8-E78A5A7E4700}.Release|x64.Build.0 = Release|x64
+		{AC71CBC0-5D9C-3810-A90C-C3BB3B854CDD}.Debug|x64.ActiveCfg = Debug|x64
+		{AC71CBC0-5D9C-3810-A90C-C3BB3B854CDD}.Debug|x64.Build.0 = Debug|x64
+		{AC71CBC0-5D9C-3810-A90C-C3BB3B854CDD}.Release|x64.ActiveCfg = Release|x64
+		{AC71CBC0-5D9C-3810-A90C-C3BB3B854CDD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
